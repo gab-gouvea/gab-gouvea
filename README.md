@@ -1,15 +1,48 @@
-<h1 align="center">Hi 👋, I'm Gabriel Gouvea</h1>
-<h3 align="center">I currently study software engineering at FIAP!</h3>
+# 👋 Olá, eu sou o Gabriel!
 
-- 🌱 I’m currently learning **Python, Javascript and C.**
+🎓 Estudante de **Engenharia de Software** na FIAP.  
+💻 Foco em **desenvolvimento backend com Java e Spring Boot**, mas também atuo em **projetos full stack** utilizando React, Node.js e SQL.  
+🚀 Sempre em busca de aprender novas tecnologias e contribuir com soluções escaláveis e inovadoras.
 
-- 📫 How to reach me **oliveirag396@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ggouvew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ggouvew" height="30" width="40" /></a>
-<a href="https://instagram.com/@gab.gmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gab.gmo" height="30" width="40" /></a>
-</p>
+## 🛠️ Tecnologias & Ferramentas
+- **Backend:** Java, Spring Boot, Spring Security, Node.js  
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
+- **Banco de Dados:** SQL  
+- **Outros:** Git, GitHub, Scrum  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Projetos em Destaque
+
+- **🔐 Sistema de Gestão de Imóveis**  
+  Plataforma para **corretores independentes** organizarem clientes, imóveis e negociações em um só lugar.  
+  *Stack:* Spring Boot, React, SQL  
+
+- **📦 Gerenciador de Estoque**  
+  CRUD completo com autenticação e logs automáticos de movimentações de produtos.  
+  *Stack:* Spring Boot, React, PostgreSQL  
+
+- **🛒 Plataforma de E-commerce (Acadêmico)**  
+  Implementação de carrinho de compras, autenticação JWT e integração com APIs externas.  
+  *Stack:* Node.js, React  
+
+---
+
+## 📚 Cursos Recentes
+- Java e Spring Security: proteja suas APIs REST – *Alura*  
+- Java: trabalhando com lambdas, streams e Spring Framework – *Alura*  
+- Design Thinking – *FIAP*  
+- UX – *FIAP*  
+- Gestão de Infraestrutura de TI – *FIAP*  
+
+---
+
+## 📫 Contato
+📧 [oliveirag396@gmail.com](mailto:oliveirag396@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-gouvea-marques-de-oliveira-50b205200/)  
+🐙 [GitHub](https://github.com/gab-gouvea)
+
+---
+✨ Sempre aberto a novas oportunidades e colaborações!
